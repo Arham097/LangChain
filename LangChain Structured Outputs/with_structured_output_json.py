@@ -1,6 +1,4 @@
-from typing import TypedDict, Annotated, Optional, Literal
 from langchain_google_genai import ChatGoogleGenerativeAI
-from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -36,7 +34,6 @@ json_schema = {
   },
   "required": ["key_themes", "summary", "sentiment"]
 }
-
 
 model = ChatGoogleGenerativeAI(model='gemini-1.5-flash')
 
