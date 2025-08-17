@@ -19,10 +19,7 @@ template2 = PromptTemplate(
 )
 
 parser = StrOutputParser()
-
 chain = template1 | model | parser | template2 | model | parser
-
 result = chain.invoke({"topic": "cricket"})
-
 print(result)
 
