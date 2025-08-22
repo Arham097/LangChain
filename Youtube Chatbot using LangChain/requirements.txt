@@ -1,10 +1,10 @@
 streamlit
 langchain
-langchain-community
 langchain-core
-langchain-google-genai
-langchain-huggingface
+langchain-community
 langchain-groq
+langchain-huggingface
+langchain-google-genai
 youtube-transcript-api
 faiss-cpu
 python-dotenv
