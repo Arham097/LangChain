@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
+langchain-groq
+youtube-transcript-api
+faiss-cpu
+python-dotenv
