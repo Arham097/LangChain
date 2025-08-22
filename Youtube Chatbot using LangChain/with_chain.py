@@ -68,6 +68,7 @@ parser = StrOutputParser()
 
 final_chain = parallel_chain | prompt | model | parser
 
+# Step 4: Generation
 question = "Can you summarize the video"
 result = final_chain.invoke(question)
 print(result)
