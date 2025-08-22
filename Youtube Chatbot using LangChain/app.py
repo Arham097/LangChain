@@ -1,5 +1,4 @@
 import streamlit as st
-from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled
