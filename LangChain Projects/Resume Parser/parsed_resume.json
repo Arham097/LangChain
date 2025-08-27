@@ -1,0 +1,167 @@
+{
+  "name": "SYED ARHAM HASAN",
+  "contact": {
+    "email": "arhamhasan70@gmail.com",
+    "phone": "+923102647209",
+    "address": null,
+    "linkedin": "linkedin.com/in/syed-arham-hasan-47b769290/",
+    "github": "github.com/Arham097",
+    "website": null
+  },
+  "summary": "Software Engineer with expertise in building responsive and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). Skilled in developing full-stack solutions with a strong focus on performance, usability, and maintainable code. Passionate about continuous learning, writing clean code, and solving real-world problems through technology.",
+  "skills": {
+    "technical_skills": [
+      "JavaScript",
+      "TypeScript",
+      "C",
+      "C++",
+      "C#",
+      "Python",
+      "HTML5",
+      "CSS3",
+      "Express.js",
+      "Next.js",
+      "React Native (Expo)",
+      "Bootstrap",
+      "Tailwind CSS",
+      ".NET Core",
+      "Node.js",
+      "Firebase",
+      "Clerk (Authentication)",
+      "Neon (PostgreSQL)",
+      "React",
+      "Redux",
+      "Material UI",
+      "Shadcn/ui",
+      "Socket.io",
+      "React Three Fiber",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL (Neon)",
+      "Git",
+      "GitHub",
+      "Postman",
+      "MongoDB Compass",
+      "Laragon",
+      "TablePlus"
+    ],
+    "soft_skills": [
+      "Teaching",
+      "Communication",
+      "Working in collaborative environment",
+      "Lifelong learner"
+    ]
+  },
+  "education": [
+    {
+      "institution": "NED University of Engineering & Technology",
+      "degree": "Bachelor of Engineering (BE)",
+      "field_of_study": "Software Engineering",
+      "start_date": "2022",
+      "end_date": "2026",
+      "grade": "CGPA: 3.618"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Software Developer Intern",
+      "company": "NexSync",
+      "start_date": "1st June25",
+      "end_date": "31st July25",
+      "location": "Onsite",
+      "description": "Built the frontend using React, TypeScript, Tailwind CSS, Framer Motion, and shadcn/ui components. Created a dynamic admin panel for easy content management and handled full frontend-backend integration. Also contributed to the initial database schema design. Developing MRMS (Meeting Room Management System) with features like room reservations, booking history, and calendar-based meeting views."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hasan Bites",
+      "description": "Built a full-stack food ordering website with real-time order tracking via Socket.io. Implemented user ordering flow, admin menu management, and image uploads using Cloudinary. Backend handles auth, order processing, and CRUD with Node.js and MongoDB.",
+      "technologies": [
+        "MERN Stack",
+        "Socket.io",
+        "Redux Persist",
+        "Cloudinary",
+        "MUI",
+        "Tailwind CSS"
+      ],
+      "link": "GitHub"
+    },
+    {
+      "name": "Al-Quran",
+      "description": "Developed a responsive Quran reading app with Arabic and Latin translations, 5 reciters, and Juz-wise navigation. Used Redux for state management and GSAP for smooth UI animations.",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Redux",
+        "GSAP"
+      ],
+      "link": "GitHub"
+    },
+    {
+      "name": "ExoPlanetarium",
+      "description": "Collaborative learning platform featuring quizzes, blogs, and a chatbot powered by the LLaMA model. Integrated Firebase for blog image storage and GSAP/React Three Fiber for engaging animated and 3D quiz interfaces. Admin panel supports blog and quiz management.",
+      "technologies": [
+        "MERN Stack",
+        "React Three Fiber",
+        "Firebase",
+        "GSAP"
+      ],
+      "link": "GitHub"
+    },
+    {
+      "name": "GemVault",
+      "description": "Built a secure Blockchain-based gemstone marketplace with on-chain certificate hash verification, cutting fraud by 70%. Enabled verified wallet-based listings and automated ownership via SafePay and smart contracts.",
+      "technologies": [
+        "Ethereum",
+        "MetaMask",
+        "Next",
+        "Node",
+        "Express",
+        "PostgreSQL",
+        "Smart Contracts"
+      ],
+      "link": "GitHub"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Competitive Programming",
+      "issuing_organization": "CodeSphere",
+      "issue_date": null,
+      "expiration_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "NASA Space Apps Challenge 2024",
+      "issuing_organization": "NASA",
+      "issue_date": null,
+      "expiration_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Web Development Module",
+      "issuing_organization": "ProBattle Hackathon",
+      "issue_date": null,
+      "expiration_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "C",
+    "C++",
+    "C#",
+    "Python",
+    "HTML5",
+    "CSS3"
+  ],
+  "interests": null
+}

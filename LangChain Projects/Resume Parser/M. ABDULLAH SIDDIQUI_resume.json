@@ -1,0 +1,95 @@
+{
+  "name": "M. ABDULLAH SIDDIQUI",
+  "contact": {
+    "email": "abdullahsidzz333@gmail.com",
+    "phone": "+923160116389",
+    "address": "Karachi, Pakistan",
+    "linkedin": "linkedin.com/in/muhammad-abdullah-siddiqui-587877280/",
+    "github": "https://github.com/Abdullah786Siddiqui",
+    "website": null
+  },
+  "summary": "I am a motivated Full Stack Web Developer with expertise in JavaScript, React.js, PHP, Laravel, MySQL, Bootstrap, and GSAP. I specialize in creating responsive, user-friendly web applications with efficient backend systems and smooth UI animations. With strong problem-solving skills and a passion for learning new technologies,",
+  "skills": {
+    "technical_skills": [
+      "JavaScript",
+      "PHP",
+      "C",
+      "C++",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Tailwind",
+      "Laravel",
+      "React",
+      "Redux",
+      "GSAP",
+      "MySQL",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [
+      "Explorer",
+      "Working in Collaborative Environment",
+      "Lifelong learner"
+    ]
+  },
+  "education": [
+    {
+      "institution": "ILMA University Karachi, PK",
+      "degree": "Bachelor of Science (BS)",
+      "field_of_study": "Software Engineering",
+      "start_date": "2024",
+      "end_date": "2028",
+      "grade": null
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Internship | PHP Laravel Developer",
+      "company": "ZAppps Consulting",
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "description": "Successfully completed a PHP Laravel development internship, where I contributed to building and enhancing web applications, integrating RESTful APIs, and optimizing MySQL databases. Collaborated with senior developers in applying MVC architecture, version control with Git, and debugging techniques to ensure robust and scalable solutions."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ecoverse",
+      "description": "Designed and developed a complete e-commerce platform as a solo developer using PHP and MySQL, featuring secure Google OAuth login, Stripe-based payment processing, real-time stock level tracking, and personalized user profile management. Focused on building a responsive, user-friendly interface and robust backend to streamline the full shopping and order lifecycle.",
+      "technologies": [
+        "PHP",
+        "MYSQL",
+        "Bootstrap",
+        "GoogleOauth2",
+        "Stripe-based payment"
+      ],
+      "link": "GitHub"
+    },
+    {
+      "name": "Soul Verse",
+      "description": "Developed a mood-based Quranic Ayah recommendation app using React that suggests relevant verses from the Quran based on the user's emotional state. Implemented an interactive UI and dynamic recommendations to enhance user engagement.",
+      "technologies": [
+        "React",
+        "Redux Persists",
+        "GSAP",
+        "Bootstrap"
+      ],
+      "link": "GitHub"
+    },
+    {
+      "name": "Hair-Care",
+      "description": "Built a modern, responsive e-commerce website using React, Redux, and React-Persist for state management and cart persistence. Implemented product listing, filtering, shopping cart, and checkout UI flows. Designed for seamless user experience with real-time updates and consistent state across page reloads.",
+      "technologies": [
+        "React",
+        "Redux Persists",
+        "GSAP",
+        "Bootstrap"
+      ],
+      "link": "GitHub"
+    }
+  ],
+  "certifications": null,
+  "languages": null,
+  "interests": null
+}
